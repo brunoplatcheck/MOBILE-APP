@@ -206,10 +206,3 @@ page.add(
 
 if __name__ == "__main__":
     ft.app(target=main)
-echo "# MOBILE-APP"
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/brunoplatcheck/MOBILE-APP.git
-git push -u origin main
